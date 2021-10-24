@@ -8,7 +8,6 @@ function lowerCase(str = ''): string {
         }
     }
     return final
-
 }
 
 console.log(lowerCase("Chopper"))
